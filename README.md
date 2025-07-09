@@ -21,7 +21,7 @@ Using **hypothesis testing, regression, cointegration, and EDA**, this project a
 
 ## 🗂️ Dataset Details
 
-**File:** [data/marketing_campaign.csv](data/marketing_campaign.csv)
+**File:** [marketing_campaign.csv](marketing_campaign.csv)
 **Rows:** 365 (daily data for 2019)  
 **Columns:**
 - Date
