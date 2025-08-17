@@ -148,6 +148,7 @@ Checked for **long-term equilibrium between ad cost and conversions**.
 ## 💡 Why This Project Matters
 
 This project demonstrates:
+
 ✅ **Practical application of statistics in marketing analytics.**  
 ✅ **A/B Testing using hypothesis testing for business decisions.**  
 ✅ **Predictive modeling and time-based analysis for cost optimization.**
